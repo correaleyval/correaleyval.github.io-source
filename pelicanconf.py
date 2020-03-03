@@ -55,7 +55,7 @@ PLUGINS = ['sitemap',
            'liquid_tags.literal',
            'tag_cloud',
            ]
-IGNORE_FILES = ['.ipynb_checkpoints']
+IGNORE_FILES = ['.ipynb_checkpoints', '.git', 'README.md']
 SITEMAP = {
     'format': 'xml',
     'priorities': {
@@ -184,7 +184,7 @@ PROGRESSBAR_COLOR = '#24292e'
 ##############################################################################
 
 CARD_POSTS = {
-    'Corrector Ortográfico Probabilistico': 'spell-checker'
+    'Corrector Ortográfico Estadístico': 'spell-checker-1'
 #    'Parse PDF Files While Retaining Structure with Tabula-py': 'parse-pdf-files-while-retaining-structure-with-tabula-py',
 #    'Optimize Computational Efficiency of Skip-Gram with Negative Sampling': 'optimize_computational_efficiency_of_skip-gram_with_negative_sampling',
 #    'Demystifying Neural Network in Skip-Gram Language Modeling': 'demystifying_neural_network_in_skip_gram_language_modeling',
