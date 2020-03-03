@@ -1,0 +1,12 @@
+[submodule "output"]
+	path = output
+	url = https://github.com/aegis4048/aegis4048.github.io.git
+[submodule "aegis4048.github.io"]
+	path = aegis4048.github.io
+	url = https://github.com/aegis4048/aegis4048.github.io.git
+[submodule "themes/pelican-aegis-jupyter-theme"]
+	path = themes/pelican-aegis-jupyter-theme
+	url = https://github.com/aegis4048/pelican-aegis-jupyter-theme.git
+[submodule "pelican-aegis-jupyter-theme"]
+	path = pelican-aegis-jupyter-theme
+	url = https://github.com/aegis4048/pelican-aegis-jupyter-theme.git
