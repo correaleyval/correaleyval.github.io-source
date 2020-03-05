@@ -7,7 +7,7 @@ Subtitle: Historia de Prolog
 Keywords: historia, prolog
 Featured_Image: images/featured_images/prolog.png
 readingTime: 3
-Social_Media_Description: El objetivo de este trabajo es desarrollar un corrector ortográfico para detección de errores por palabras utilizando métodos estadísticos para ordenar las sugerencias. En esta primera parte se muestra: carga de datos, detección de errores non-word, tokenización de las palabras.
+Social_Media_Description: El lenguaje de programación Prolog tuvo sus inicios a principios de los años 70 en la Universidad de Aix-Marseille I ubicada en Marsella, Francia. Los profesores Alain Colmerauer y Philippe Roussel se dieron a la tarea de realizar un proyecto que no tenía como objetivo la implementación de un lenguaje de programación, sino el procesamiento de lenguajes naturales. 
 IndexPreview: El lenguaje de programación Prolog tuvo sus inicios a principios de los años 70 en la Universidad de Aix-Marseille I ubicada en Marsella, Francia. Los profesores Alain Colmerauer y Philippe Roussel se dieron a la tarea de realizar un proyecto que no tenía como objetivo la implementación de un lenguaje de programación, sino el procesamiento de lenguajes naturales. 
 Summary: El lenguaje de programación Prolog tuvo sus inicios a principios de los años 70 en la Universidad de Aix-Marseille I ubicada en Marsella, Francia. Los profesores Alain Colmerauer y Philippe Roussel se dieron a la tarea de realizar un proyecto que no tenía como objetivo la implementación de un lenguaje de programación, sino el procesamiento de lenguajes naturales. 
 
