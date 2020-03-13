@@ -9,7 +9,7 @@ import shutil
 AUTHOR = 'LUIS CORREA'
 AUTHOR_LOWER = 'Luis Correa'
 AUTHOR_SHORTENED = 'correaleyval'
-AUTHOR_SUBTITLE = 'Computer && Data Scientist, always studying'
+AUTHOR_SUBTITLE = 'Student of Computer Science and lover of Data Science and Machine Learning'
 SITENAME = 'ML && DS'
 SITESUBTITLE = u'Machine Learning, Data Science and Computer Science Blog'
 SITE_DESCRIPTION = 'ML && DS | Machine Learning, Data Science and Computer Science Blog'
