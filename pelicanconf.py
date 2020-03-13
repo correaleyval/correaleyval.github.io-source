@@ -171,7 +171,7 @@ INDEX_PAGE_DESCRIPTION = u'Machine Learning, Data Science and Computer Science B
 ##############################################################################
 
 FOOTER_TITLE = 'Luis Correa'
-TEXT_FOOTER = 'Computer && Data Scientist, always studying'
+TEXT_FOOTER = 'Student of Computer Science and lover of Data Science and Machine Learning'
 EMAIL = 'correaleyval@gmail.com'
 LOCATION = 'Santiago de Cuba, Cuba'
 COPYRIGHT_NOTICE = 'ML && DS @2020'
