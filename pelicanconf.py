@@ -119,6 +119,7 @@ LOGO_WITH_SUBTITLE = "theme/img/profile_photo_about.jpg"  # logo created at "htt
 
 GITHUB_LINK = 'https://github.com/correaleyval'
 TWITTER_LINK = 'https://twitter.com/correaleyval'
+LINKEDIN_LINK = 'https://www.linkedin.com/in/luis-antonio-correa-leyva-605a251a4'
 
 ABOUT_PAGE = 'about.html'
 ARCHIVE_PAGE = 'archives.html'
