@@ -9,7 +9,7 @@ import shutil
 AUTHOR = 'LUIS CORREA'
 AUTHOR_LOWER = 'Luis Correa'
 AUTHOR_SHORTENED = 'correaleyval'
-AUTHOR_SUBTITLE = 'Student of Computer Science and lover of Data Science and Machine Learning'
+AUTHOR_SUBTITLE = 'Estudiante de Ciencias de la Computación en la Universidad de Oriente, Santiago de Cuba'
 SITENAME = 'ML && DS'
 SITESUBTITLE = u'Machine Learning, Data Science and Computer Science Blog'
 SITE_DESCRIPTION = 'ML && DS | Machine Learning, Data Science and Computer Science Blog'
@@ -172,7 +172,7 @@ INDEX_PAGE_DESCRIPTION = u'Machine Learning, Data Science and Computer Science B
 ##############################################################################
 
 FOOTER_TITLE = 'Luis Correa'
-TEXT_FOOTER = 'Student of Computer Science and lover of Data Science and Machine Learning'
+TEXT_FOOTER = 'Estudiante de Ciencias de la Computación en la Universidad de Oriente, Santiago de Cuba'
 EMAIL = 'correaleyval@gmail.com'
 LOCATION = 'Santiago de Cuba, Cuba'
 COPYRIGHT_NOTICE = 'ML && DS @2020'
@@ -185,7 +185,7 @@ PROGRESSBAR_COLOR = '#24292e'
 ##############################################################################
 
 CARD_POSTS = {
-    'Corrector Ortográfico Estadístico': 'spell-checker-1'
+    'Corrector Ortográfico Estadístico': 'spell-checker-spacy'
 #    'Parse PDF Files While Retaining Structure with Tabula-py': 'parse-pdf-files-while-retaining-structure-with-tabula-py',
 #    'Optimize Computational Efficiency of Skip-Gram with Negative Sampling': 'optimize_computational_efficiency_of_skip-gram_with_negative_sampling',
 #    'Demystifying Neural Network in Skip-Gram Language Modeling': 'demystifying_neural_network_in_skip_gram_language_modeling',
